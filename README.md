@@ -45,3 +45,6 @@ text work. pytest throughout, because the failures I care about are the silent o
 ## Elsewhere
 
 zander.s.luke@gmail.com · [LinkedIn](https://www.linkedin.com/in/zander-luke-06790049)
+
+
+<!-- profile readme -->
