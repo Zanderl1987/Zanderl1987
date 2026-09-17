@@ -1,8 +1,6 @@
 # Zander Luke
 
-Data scientist in Charlottesville, Virginia. Most of what I build is the plumbing that research
-runs on: pulling data out of public sources, getting it into a shape you can actually query, and
-then using it to check whether an idea holds up once you stop grading it generously.
+Data scientist in Charlottesville, Virginia. I have a never ending quest to build things that are useful. Most of what I build is shaped by understanding the fundamental business or scientific need for a problem. That's one of my strengths. I think that part of why this field is so exciting is learning the context behind the data and getting exposure to learning about new concepts, industries, and new problems that need to be solved. I enjoy the challenge of wrangling messy data and the satisfaction of creating a wonderfully formatted dataset, dashboard or whatever the final product is. Then it gets more fun if we build machine learning models on that data that produce statistically significant and actionable insights that move the needle, solve a problem, or prevent a problem. I enjoy new challenges and my natural curiosity and ADHD make me constantly poking around for the next cool new thing I can learn. I would love to collaborate with anybody that is interested so please reach out!
 
 Currently looking for data science, AI engineering, or ML engineering work, remote or hybrid.
 
